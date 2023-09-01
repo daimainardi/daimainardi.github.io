@@ -1,0 +1,16 @@
+@media (max-width: 768px){
+    img{
+        min-width: 10rem;
+        max-width: 20rem;
+    }
+    .img-side-bar{
+        min-width: 20rem;
+        max-width: 40rem;
+    }
+     h2{
+    font-size: 3rem;
+ }
+ p{
+    font-size: 2rem;
+ }
+}
